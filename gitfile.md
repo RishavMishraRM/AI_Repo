@@ -1,23 +1,23 @@
 ### create a new repository on the command line
 
-echo "# Python" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/RishavMishraRM/Python.git
-git push -u origin main
+echo "# Python" >> README.md <br>
+-- git init <br>
+-- git add README.md <br>
+-- git commit -m "first commit" <br>
+-- git branch -M main <br>
+-- git remote add origin https://github.com/RishavMishraRM/Python.git <br>
+-- git push -u origin main <br>
 
 ### push an existing repository from the command line
 
-git remote add origin https://github.com/RishavMishraRM/Python.git
-git branch -M main
-git push -u origin main
+-- git remote add origin https://github.com/RishavMishraRM/Python.git <br>
+-- git branch -M main <br>
+-- git push -u origin main <br>
 
 ### Check the remote to git
 
--- git remote -v
+-- git remote -v <br>
 
 ### Remove the remote from Git
 
--- git remote rm origin
+-- git remote rm origin <br>
