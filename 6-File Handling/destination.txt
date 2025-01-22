@@ -1,0 +1,6 @@
+Hey World!
+This is a new file.
+Append operation has taken place!
+First line 
+Second line 
+Third line
