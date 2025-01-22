@@ -1,0 +1,1 @@
+'''__init__.py is a special Python file used in Python to define packages and initialize their namespaces.'''
