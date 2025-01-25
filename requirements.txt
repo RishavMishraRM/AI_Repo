@@ -7,3 +7,8 @@ flask
 memory_profiler
 streamlit
 scikit-learn
+lxml
+html5lib
+beautifulsoup4
+openpyxl
+
