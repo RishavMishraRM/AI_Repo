@@ -1,3 +1,3 @@
 # Codes
 
-Completed Repo Related to AI and Data Science
+Complete Repository Related to AI and Data Science
