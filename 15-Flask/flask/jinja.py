@@ -78,9 +78,6 @@ def submit():
     else:
         return render_template('getresult.html')
     return redirect(url_for('successres',score=total_score))
-            
-        
-
 
 
 
