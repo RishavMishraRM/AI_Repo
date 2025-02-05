@@ -7,3 +7,5 @@ Complete Repository Related to AI and Data Science
 ### Data Analysis
 
 ### Databases
+
+### Statistics
