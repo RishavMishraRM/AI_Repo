@@ -13,3 +13,5 @@ Complete Repository Related to AI and Data Science
 ### Statistics
 
 ### Probability
+
+### Inferential Statistics
