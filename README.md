@@ -8,6 +8,8 @@ Complete Repository Related to AI and Data Science
 
 ### Oops
 
+### Memory Management
+
 ### Data Analysis
 
 ### Databases
