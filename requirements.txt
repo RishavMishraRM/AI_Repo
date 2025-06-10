@@ -17,6 +17,6 @@ plotly
 nbformat>=4.2.0
 xgboost
 kneed
-
+nltk
 
 
